@@ -2,7 +2,7 @@
 
 > Este repositorio contiene teoría, ejercicios prácticos del curso de algebra con aplicación en c++.
 
->> Para correr los ejercicios usar la siguiente lógica =>
+> Para correr los ejercicios usar la siguiente lógica =>
 
 ```bash
     clang++  -std=c++11 "{path del archivo}" -o first.out && "./first.out" 
