@@ -47,6 +47,6 @@ Algunas expresiones algebraicas
 |----------------------------------|--------------------|
 | El Sucesor de n                  |  $$n+1$$           |
 | El antecesor de n                |  $$n-1$$           |
-| El entero par                    |  $$ 2n$$           |
+| El entero par                    |  $$ 2n $$           |
 | El entero impar                  | $$2n-1$$ $$2n+1$$  |
 | Cuadrado perfecto                |    $${n}^{2}$$     |
