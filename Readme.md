@@ -2,6 +2,12 @@
 
 > Este repositorio contiene teoría, ejercicios prácticos del curso de algebra con aplicación en c++.
 
+>> Para correr los ejercicios usar la siguiente lógica =>
+
+```bash
+    clang++  -std=c++11 "{path del archivo}" -o first.out && "./first.out" 
+```
+
 
 Usa los símbolos para representar las variables
 
@@ -47,6 +53,6 @@ Algunas expresiones algebraicas
 |----------------------------------|--------------------|
 | El Sucesor de n                  |  $$n+1$$           |
 | El antecesor de n                |  $$n-1$$           |
-| El entero par                    |  $$ 2n $$           |
+| El entero par                    |  $$ 2*n $$           |
 | El entero impar                  | $$2n-1$$ $$2n+1$$  |
 | Cuadrado perfecto                |    $${n}^{2}$$     |
